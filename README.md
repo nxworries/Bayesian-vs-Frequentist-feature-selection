@@ -1,2 +1,2 @@
 # Bayesian-vs-Frequentist-feature-selection
-feature selection project using IMDb data
+Contrasting feature selection in a linear regression model using Bayesian and frequentist statistical methods
